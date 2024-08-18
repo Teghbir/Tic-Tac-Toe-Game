@@ -1,5 +1,6 @@
-**Tic-Tac-Toe Game - README
-Overview**
+**Tic-Tac-Toe Game - README**
+
+**Overview**
 This Tic-Tac-Toe project is a Java-based implementation of the classic game. The game was developed with a focus on providing a clear and engaging user experience, incorporating feedback from users to refine and improve the design.
 
 **Features**
@@ -15,9 +16,13 @@ This project is private and is not intended for personal, commercial, or any oth
 This game has been refined based on feedback received from user testing:
 
 **Layout Improvement:** The game status and player statistics are now more prominently displayed for better visibility.
+
 **Visual Feedback:** The background color changes to indicate game progress and outcomes, enhancing the user experience.
+
 **Sound Effects:** A violin sound plays when a player wins, adding an auditory cue to the game.
+
 **Future Enhancements:** Draw a line through the winning tiles to highlight the winning move visually. Further customization of sound and color options for different game events.
+
 **Acknowledgements**
 Special thanks to Ahmed and Kyan for their valuable feedback, which significantly contributed to the improvement of the game's interface and user experience.
 
