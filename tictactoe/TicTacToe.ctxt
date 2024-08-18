@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=TicTacToe
+comment0.text=\r\n\ A\ class\ modelling\ a\ tic-tac-toe\ (noughts\ and\ crosses,\ Xs\ and\ Os)\ game.\r\n\ Credits\ for\ the\ sound\ 'violin.wav'\ go\ to\ https\://pixabay.com/sound-effects/search/win/\r\n\ Credits\ for\ GUI\ logic\ go\ to\ Sysc\ 2004\ Lab\ 11-\ counter-v3-upd\r\n\ \r\n\ @author\ Lynn\ Marshall\r\n\ @version\ November\ 8,\ 2012\r\n\ \r\n\ @author\ Teghbir\ Chadha\ (101258511)\r\n\ @version\ April\ 9,\ 2024\r\n
+comment1.params=
+comment1.target=TicTacToe()
+comment1.text=\ \r\n\ Constructs\ a\ new\ Tic-Tac-Toe\ board.\r\n
+comment2.params=event
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=
+comment4.target=void\ clearBoard()
+comment4.text=\r\n\ Sets\ everything\ up\ for\ a\ new\ game.\ \ Marks\ all\ squares\ in\ the\ Tic\ Tac\ Toe\ board\ as\ \r\n\ empty\ and\ indicates\ no\ winner\ yet,\ 9\ free\ squares\ and\ the\ current\ player\ is\ player\ X.\r\n
+comment5.params=row\ col
+comment5.target=void\ playGame(int,\ int)
+comment5.text=\r\n\ Updates\ the\ GUI\ to\ reflect\ the\ current\ game\ state\ and\ checks\ for\ a\ winner\ or\ tie.\r\n
+comment6.params=row\ col
+comment6.target=boolean\ haveWinner(int,\ int)
+comment6.text=\r\n\ Returns\ true\ if\ filling\ the\ given\ square\ gives\ us\ a\ winner,\ and\ false\r\n\ otherwise.\r\n\r\n\ @param\ int\ row\ of\ square\ just\ set\r\n\ @param\ int\ col\ of\ square\ just\ set\r\n\ \r\n\ @return\ true\ if\ we\ have\ a\ winner,\ false\ otherwise\r\n
+comment7.params=e
+comment7.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment7.text=\r\n\ Handles\ the\ actions\ performed\ when\ a\ menu\ item\ or\ a\ board\ button\ is\ clicked.\r\n\r\n\ @param\ e\ the\ ActionEvent\ representing\ the\ action\ performed\r\n
+numComments=8
